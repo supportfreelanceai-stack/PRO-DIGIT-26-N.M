@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PRO DIGIT 26 N.M</title>
+</head>
+<body style="text-align: center; font-family: sans-serif; padding-top: 50px;">
+    <h1>PRO DIGIT 26 N.M</h1>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXRYws4CJ1IFCvSGKCWCRRNmNQOVW6Zc2xl5OpjGceEtYSmw/viewform" 
+       target="_blank"
+       style="background-color: #10b981; color: white; padding: 20px 40px; text-decoration: none; border-radius: 10px; font-size: 20px; font-weight: bold;">
+       ALEFAFO ETO NY PDF
+    </a>
+</body>
+</html>
